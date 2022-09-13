@@ -1,5 +1,12 @@
-body {
-    color:deeppink;
+
+    
+
+#cuerpo {
+    border: solid #53f3bf 3px;
+    padding: 20px;
+    height: 60px;
     text-align: center;
-    font-family: "Arial";
+    color: white;
+    background-color: black;
+    margin: auto;
 }
