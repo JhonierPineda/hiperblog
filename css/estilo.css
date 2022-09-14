@@ -1,12 +1,15 @@
-
-    
-
-#cuerpo {
-    border: solid #53f3bf 3px;
+h1 {
+    border: solid #ae19ee 4px;
     padding: 20px;
-    height: 100px;
+    height: 30px;
     text-align: center;
     color: white;
     background-color: black;
-    margin: auto;
+    margin: 10px 420px;
+}
+h3 { 
+    text-align: center;
+}
+p { 
+    text-align: center;
 }
