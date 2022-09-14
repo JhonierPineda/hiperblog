@@ -1,12 +1,8 @@
-
-    
-
-#cuerpo {
-    border: solid #53f3bf 3px;
-    padding: 20px;
-    height: 60px;
+article{
     text-align: center;
-    color: white;
-    background-color: black;
-    margin: auto;
+    font-size: larger;
+
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
 }
